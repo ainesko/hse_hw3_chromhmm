@@ -1,7 +1,9 @@
 # hse_hw3_chromhmm
 
 Табличка со списком гистоновых меток и имён фалов (из cellmarkfiletable.txt)
-<img width="1415" alt="image" src="https://user-images.githubusercontent.com/93263861/160298221-f54765c2-04f2-4ad2-9bea-ab58bf22b522.png">
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/93263861/160298244-ca3f4671-7b5e-4405-8a4f-6e98dd1002a6.png">
+
 
 # Картинки из выдачи ChromHMM
 
@@ -24,4 +26,5 @@
 
 И вот
 
-<img width="472" alt="image" src="https://user-images.githubusercontent.com/93263861/160298244-ca3f4671-7b5e-4405-8a4f-6e98dd1002a6.png">
+<img width="1415" alt="image" src="https://user-images.githubusercontent.com/93263861/160298221-f54765c2-04f2-4ad2-9bea-ab58bf22b522.png">
+
