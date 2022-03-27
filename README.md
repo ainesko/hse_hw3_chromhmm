@@ -1,5 +1,7 @@
 # hse_hw3_chromhmm
 
+Colab: https://colab.research.google.com/drive/1T1TSd3Cz1kr_c0Jv55aaaQ9cxcWIJuPJ?usp=sharing
+
 Табличка со списком гистоновых меток и имён фалов (из cellmarkfiletable.txt)
 
 <img width="472" alt="image" src="https://user-images.githubusercontent.com/93263861/160298244-ca3f4671-7b5e-4405-8a4f-6e98dd1002a6.png">
